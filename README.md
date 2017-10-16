@@ -3,11 +3,12 @@ Implementation of Baum Welch-Algorithm for POS tagging.
 
 Has implementation of both online and batch training versions.
 
-##Usage
-
+## Usage
+'''
 cd src/
-python main_alter.py ../corpus/brown_nolines.txt
 
+python main_alter.py ../corpus/brown_nolines.txt
+'''
 Other versions can be used depending on requirement. main_alter is the version used for calculating the results data.
 
 ## Tasks
