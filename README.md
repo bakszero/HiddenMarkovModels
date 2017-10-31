@@ -1,5 +1,5 @@
-# Hidden Markov Model
-Implementation of Baum Welch-Algorithm for POS tagging.
+# Baum Welch Algorithm
+Implementation of Baum Welch-Algorithm for POS tagging using the expectation-minimization algorithm.
 
 Has implementation of both online and batch training versions.
 
