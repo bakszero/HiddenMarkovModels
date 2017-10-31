@@ -18,4 +18,4 @@ Other versions can be used depending on requirement. main_alter is the version u
  - [x] Implement Maximisation step
  - [x] Implement scaling to avoid underflow.
  - [x] Predict top 100 words(emission probabilities) for each tag.
-
+ - [x] Contains the report describing the workflow.
