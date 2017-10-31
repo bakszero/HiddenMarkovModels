@@ -1,7 +1,7 @@
 # Baum Welch Algorithm
 Implementation of Baum Welch-Algorithm for POS tagging using the expectation-minimization algorithm.
 
-Has implementation of both online and batch training versions.
+ Has implementation of both online and batch training versions.
 
 ## Usage
 <code>
